@@ -6,7 +6,7 @@ Rüzgâr Yolu, GameUP Türkiye Oyun Hackathonu için COP31 iklim teması kapsam�
 
 **[Oyunu indir (Windows)](../../releases/latest)** · **[Oynanış videosu](https://drive.google.com/file/d/1DHG27OKIUNqbpFREqgQAVIzSvm7U2MJj/view?usp=drive_link)**
 
-![Başlık ekranı](docs/title.png)
+![Başlık ekranı](docs/title.jpg)
 
 ## Hikâye
 
@@ -14,9 +14,9 @@ Bir zamanlar yemyeşil olan vadide kömür dumanı gökyüzünü kararttı. Topr
 
 Oyuncu, kendi adını verdiği genç bir enerji mühendisi. Yanında ona ipucu veren bilge bir kedi var. Amacı, Çeşme'den Antalya'ya 7 gerçek durakta rüzgâr ve güneş enerjisini evlere ulaştırmak, kasabaları kömürden kurtarmak ve vadiyi yeniden yeşertmek.
 
-| Giriş: kurumuş vadi | Zonguldak: kömürden kurtul |
+| Karakter seçimi | Ülke seçimi |
 |---|---|
-| ![Kurumuş vadi](docs/intro.png) | ![Zonguldak bölümü](docs/zonguldak.png) |
+| ![Mühendisini seç](docs/character.jpg) | ![Bir ülke seç](docs/country.jpg) |
 
 ## Nasıl oynanır
 
@@ -36,9 +36,9 @@ Oyuncu, kendi adını verdiği genç bir enerji mühendisi. Yanında ona ipucu v
 - **Bilge kedi:** Zorlandığında zıplayarak gelip yardım teklif eder.
 - **İlerleme kaydı:** Yıldızlar kaydedilir, bölümler sırayla açılır.
 
-| Bilge kedinin ipucu teklifi | Bölüm sonu bilgi kartı |
+| Bölüm görünümü | Bilge kedinin ipucu teklifi |
 |---|---|
-| ![Bilge kedi](docs/cat.png) | ![Bilgi kartı](docs/card.png) |
+| ![Bölüm oynanışı](docs/gameplay.jpg) | ![Bilge kedi ipucu](docs/hint.jpg) |
 
 ## Bölümler
 
@@ -55,7 +55,7 @@ Oyuncu, kendi adını verdiği genç bir enerji mühendisi. Yanında ona ipucu v
 
 Avustralya, Brezilya ve Fiji bölümleri yakında.
 
-![İyileşen vadi](docs/ending.png)
+
 
 ## İndirme ve çalıştırma
 
